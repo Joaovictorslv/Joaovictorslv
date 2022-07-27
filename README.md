@@ -1,7 +1,8 @@
 ## Olá! Prazer, João Victor!👋
 
-- 💻Estudo de desenvolvimento Front-end
-- 👨‍🎓Cursando Ciência da Computação na UFRPE
-- 📚Estudando atualmente ReactJs
+- 💻Desenvolvedor;
+- 👨‍🎓Cursando Ciência da Computação na UFRPE;
+- Analista de Negócios;
+- 📚Estudando atualmente ReactJs;
 
   victorsilva0805@gmail.com
